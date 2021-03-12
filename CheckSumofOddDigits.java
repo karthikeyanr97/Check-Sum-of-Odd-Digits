@@ -1,5 +1,3 @@
-package com.ogon.programs;
-
 import java.util.Scanner;
 
 public class CheckSumofOddDigits extends UserMainCode {
