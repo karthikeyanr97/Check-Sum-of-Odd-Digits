@@ -2,7 +2,7 @@ package com.ogon.programs;
 
 import java.util.Scanner;
 
-public class CheckSumofOddDigits extends UserMainCode1 {
+public class CheckSumofOddDigits extends UserMainCode {
 
 	public static void main(String[] args) {
 
@@ -20,7 +20,7 @@ public class CheckSumofOddDigits extends UserMainCode1 {
 	}
 }
 
-class UserMainCode1 {
+class UserMainCode {
 
 	public static int checkSum(int num) {
 
